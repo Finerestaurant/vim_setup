@@ -22,7 +22,7 @@ Plugin 'nvie/vim-flake8'                " python 문법 검사 plugin
 " let g:syntastic_python_flake8_args='--ignore='    " 무시하고자 하는 errorcode
 Plugin 'scrooloose/nerdtree'
 Plugin 'vim-airline/vim-airline'
-						
+Plugin 'tpope/vim-fugitive'
 
 call vundle#end()
 
