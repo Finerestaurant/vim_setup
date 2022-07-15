@@ -23,7 +23,7 @@ Plugin 'nvie/vim-flake8'                " python 문법 검사 plugin
 Plugin 'scrooloose/nerdtree'
 Plugin 'vim-airline/vim-airline'
 Plugin 'tpope/vim-fugitive'
-
+Plugin 'jupyter-vim/jupyter-vim'
 call vundle#end()
 
 "---------------------------------------------Plugin 종료
