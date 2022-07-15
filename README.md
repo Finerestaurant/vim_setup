@@ -6,4 +6,6 @@
 ```bash
 $ ./vim_setting.sh
 ```
+Then you will get every plugin which declare in .vimrc.
+
 
